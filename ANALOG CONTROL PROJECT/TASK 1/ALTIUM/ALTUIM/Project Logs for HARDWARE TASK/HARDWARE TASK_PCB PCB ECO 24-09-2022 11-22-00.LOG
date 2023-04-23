@@ -1,0 +1,92 @@
+Add Component: Footprint Not Found FP-GRM21B-0_15-MFG
+Add Component: Footprint Not Found CAPC1608X90X35LL10T15
+Add Component: Footprint Not Found FP-LSHD-5601-MFG
+Add Component: Footprint Not Found Type 5mm
+Add Component: Footprint Not Found MOLX-22-27-2021_V
+Add Component: Footprint Not Found MOLX-22-27-2021_V
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found RESC3225X60X45ML20T20
+Add Component: Footprint Not Found FP-RN732B-IPC_B
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found FP-CRCW0603-e3-MFG
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found FP-CRCW0603-e3-MFG
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found RESC1005X40X25NL05T05
+Add Component: Footprint Not Found CKCP-TS02CBE_V
+Add Component: Footprint Not Found CKCP-TS02CBE_V
+Add Component: Footprint Not Found FP-DCT0008A-MFG
+Add Component: Footprint Not Found NS0014A_M
+Add Component: Footprint Not Found FP-SO-8-0016023-IPC_C
+Add Component: Footprint Not Found DB0014A_M
+Add Component: Footprint Not Found NDE0003A
+Add Component: Footprint Not Found DGK0008A_M
+Add Component: Footprint Not Found NS0016A_L
+Add Component: Footprint Not Found DB0014A_M
+Add Component: Footprint Not Found DB0014A_M
+Add Component: Footprint Not Found NS0014A_M
+Add Component: Footprint Not Found N0016A
+Add Component: Footprint Not Found D0014A_L
+Add Component: Footprint Not Found D0014A_L
+Add Component: Footprint Not Found D0008A_N
+Add Component: Footprint Not Found D0014A_L
+Add Component: Footprint Not Found N0016A
+Add Component: Footprint Not Found BOUR-3852A-282-103AL-3_V
+Add Component: Footprint Not Found BOUR-3852A-282-103AL-3_V
+Added Net: Name=GND
+Added Net: Name=NetC10UF_1
+Added Net: Name=NetC?_1
+Added Net: Name=NetDS?_1
+Added Net: Name=NetDS?_2
+Added Net: Name=NetDS?_3
+Added Net: Name=NetDS?_4
+Added Net: Name=NetDS?_6
+Added Net: Name=NetDS?_7
+Added Net: Name=NetDS?_9
+Added Net: Name=NetDS?_10
+Added Net: Name=NetLED?_2
+Added Net: Name=NetP?_2
+Add Net: Net with name "NetP?_2" already exists
+Added Net: Name=NetQ?_1
+Added Net: Name=NetQ?_2
+Add Net: Net with name "NetQ?_2" already exists
+Added Net: Name=NetQ?_3
+Add Net: Net with name "NetQ?_3" already exists
+Add Net: Net with name "NetQ?_3" already exists
+Added Net: Name=NetR10K_2
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Net: Name=NetSW?_1
+Added Net: Name=NetU?_1
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Added Net: Name=NetU?_2
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Added Net: Name=NetU?_6
+Added Class: Name=HARDWARE TASK_SCH
+Added Room: Name=HARDWARE TASK_SCH

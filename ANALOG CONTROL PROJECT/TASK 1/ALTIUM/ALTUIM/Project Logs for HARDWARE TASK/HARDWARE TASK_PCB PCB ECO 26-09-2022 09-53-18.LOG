@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=  NewDesignator=VR1
+Added Pin To Net: NetName=NetDS1_3 Pin=U1-2
+Added Pin To Net: NetName=NetLED1_1 Pin=U5-8
+Added Pin To Net: NetName=NetDS1_3 Pin=U5-16
+Added Pin To Net: NetName=NetC1_2 Pin=U7-1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=GND

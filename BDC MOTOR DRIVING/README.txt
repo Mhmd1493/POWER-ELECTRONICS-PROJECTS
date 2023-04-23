@@ -1,0 +1,2 @@
+The results of the position will not be displayed on the serial monitor (i.e. virtual terminal) and serial plotter due to the faulty L298N driver.
+However, this doesn't mean that the code is incorrect, I assume that if we create a physical version of this project, it will work just fine. :D
