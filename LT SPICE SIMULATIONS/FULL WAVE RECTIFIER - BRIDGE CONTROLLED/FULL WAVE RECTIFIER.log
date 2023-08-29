@@ -1,0 +1,46 @@
+Circuit: * C:\Users\user\Desktop\FULL WAVE RECTIFIER - BRIDGE CONTROLLED\FULL WAVE RECTIFIER.asc
+
+u16:vigf: Missing value, assumed 0V @ DC
+u16:viak: Missing value, assumed 0V @ DC
+u15:vigf: Missing value, assumed 0V @ DC
+u15:viak: Missing value, assumed 0V @ DC
+u14:vigf: Missing value, assumed 0V @ DC
+u14:viak: Missing value, assumed 0V @ DC
+u13:vigf: Missing value, assumed 0V @ DC
+u13:viak: Missing value, assumed 0V @ DC
+u12:vigf: Missing value, assumed 0V @ DC
+u12:viak: Missing value, assumed 0V @ DC
+u11:vigf: Missing value, assumed 0V @ DC
+u11:viak: Missing value, assumed 0V @ DC
+.OP point found by inspection.
+Heightened Def Con from 0.0213734 to 0.0213734
+Heightened Def Con from 0.035 to 0.035
+Heightened Def Con from 0.035 to 0.035
+Heightened Def Con from 0.0412776 to 0.0412776
+Heightened Def Con from 0.055 to 0.055
+Heightened Def Con from 0.0612577 to 0.0612577
+Heightened Def Con from 0.0612577 to 0.0612577
+Heightened Def Con from 0.0612577 to 0.0612577
+Heightened Def Con from 0.0812535 to 0.0812535
+Heightened Def Con from 0.0812535 to 0.0812535
+Heightened Def Con from 0.0912519 to 0.0912519
+Heightened Def Con from 0.095 to 0.095
+
+Date: Tue Aug 29 11:01:16 2023
+Total elapsed time: 10.679 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 265176
+traniter = 265176
+tranpoints = 57617
+accept = 42957
+rejected = 14672
+matrix size = 245
+fillins = 162
+solver = Normal
+Thread vector: 38.9/15.5[4] 6.1/4.8[4] 11.7/4.9[4] 0.9/2.2[1]  2592/500
+Matrix Compiler1: 18.74 KB object code size  8.2/4.4/[1.0]
+Matrix Compiler2: 20.30 KB object code size  3.3/4.9/[0.8]
+
